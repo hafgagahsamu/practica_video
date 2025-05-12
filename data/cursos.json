@@ -1,0 +1,30 @@
+
+
+[
+    {
+        "id" : 1,
+        "nombre" : "taller 1",
+        "cant_alumnos" : 50,
+        "aula": "106",
+        "habilitado": true
+
+    },
+    {
+        "id": 2,
+        "nombre": "Programacion 1",
+        "cant_alumnos": 39,
+        "aula": "210",
+        "habilitado" : true
+
+    },
+    {
+        "id": 3,
+        "nombre": "matematicas",
+        "cant_alumnos": 0,
+        "aula": "217",
+        "habilitado" : false
+
+    }
+
+
+]
